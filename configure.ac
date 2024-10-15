@@ -1,4 +1,4 @@
-AC_INIT([rtgi], [2023], [kai selgrad at oth regensburg de])
+AC_INIT([rtgi], [2024], [kai selgrad at oth regensburg de])
 
 AC_CONFIG_SRCDIR([driver/main.cpp])
 AC_CONFIG_HEADERS(config.h)

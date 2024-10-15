@@ -63,10 +63,8 @@
 #include <mutex>
 #include <condition_variable>
 
-#include <glm/glm.hpp>
-#if GLM_VERSION < 997
 #define GLM_ENABLE_EXPERIMENTAL
-#endif
+#include <glm/glm.hpp>
 #include <glm/gtx/string_cast.hpp>
 
 using namespace glm;

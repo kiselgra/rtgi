@@ -7,7 +7,7 @@ fi
 
 ASS="$1"
 REF="$2"
-YEAR=2023
+YEAR=2024
 
 branch="master"
 if [ "$(git branch --show-current)" != "$branch" ] ; then

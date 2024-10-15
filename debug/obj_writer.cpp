@@ -1,6 +1,7 @@
 #include "config.h"
 #include "obj_writer.h"
 #include <vector>
+#define GLM_ENABLE_EXPERIMENTAL
 #include <glm/gtx/color_space.hpp>
 #include "libgi/color.h"
 
