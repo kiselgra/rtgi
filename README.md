@@ -1,7 +1,7 @@
 # RTGI -- Ray Tracing & Global Illumination Framework
 
 HINWEIS: Das Projekt lebt eigentlich auf unserem internen GitLab und ist nur kurze Zeit hier um unsere Arbeit zeigen zu können.
-
+Ich habe auch nur den Master-Branch hochgeladen, das ist also chaotischer als es aussieht ;)
 
 ## Stand der Dinge
 
